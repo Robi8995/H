@@ -619,8 +619,10 @@ plt.show()
 
 ---
 
-## 🎯 Conclusion
+## 📝 Author
+**Robin Jimmichan P**  
+[LinkedIn](https://www.linkedin.com/in/robin-jimmichan-pooppally-676061291) | [GitHub](https://github.com/Robi8995)
 
-This project demonstrates how data analytics drives healthcare decision-making by uncovering patterns in patient demographics, clinical complexity, and outcomes. By analyzing length of stay, readmission risk, and cost drivers, hospitals can optimize resource allocation, improve patient outcomes, and reduce preventable readmissions. These data-driven insights empower clinical and administrative teams to implement targeted interventions, enhance care quality, and maximize operational efficiency while reducing costs and improving the patient experience.
+
 
 ---
