@@ -624,5 +624,5 @@ plt.show()
 
 ---
 
-*This project demonstrates practical healthcare analytics expertise in clinical operations, combining admission-type segmentation and diagnosis profiling with readmission risk modeling to drive measurable improvements in resource optimization, cost reduction, patient outcomes, and operational efficiency through data-driven risk stratification.*
+*This project demonstrates practical healthcare analytics expertise in clinical operations, combining admission-type segmentation and diagnosis profiling with readmission risk modeling to drive measurable improvements in resource optimization, cost reduction, patient outcomes, and operational efficiency through data-driven risk stratification*
 
