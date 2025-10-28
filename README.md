@@ -615,14 +615,14 @@ plt.show()
 | **Data Processing** | Pandas, NumPy |
 | **Visualization** | Matplotlib, Seaborn |
 | **Environment** | Jupyter Notebook / VS Code |
-| **Dataset Source** | Hospital Administrative Database |
 
 ---
 
 ## 📝 Author
-**Robin Jimmichan P**  
+**Robin Jimmichan Pooppally**  
 [LinkedIn](https://www.linkedin.com/in/robin-jimmichan-pooppally-676061291) | [GitHub](https://github.com/Robi8995)
 
-
-
 ---
+
+*This project demonstrates practical healthcare analytics expertise in clinical operations, combining admission-type segmentation and diagnosis profiling with readmission risk modeling to drive measurable improvements in resource optimization, cost reduction, patient outcomes, and operational efficiency through data-driven risk stratification.*
+
