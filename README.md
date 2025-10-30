@@ -8,7 +8,7 @@
 
 A comprehensive Python-based exploratory data analysis (EDA) project analyzing hospital patient data to identify factors influencing length of stay, segment patient populations by risk level, and uncover patterns in readmission rates. This project combines data cleaning, feature engineering, and advanced visualization to derive actionable clinical and operational insights.
 
-**Dataset:** hospital_stay_data.csv | **Industry:** Healthcare Analytics & Hospital Operations
+**Dataset:** hospital__stay_data.csv | **Industry:** Healthcare Analytics & Hospital Operations
 
 ---
 
@@ -41,7 +41,7 @@ Analyze hospital patient data to:
 
 ## 📊 Dataset Description
 
-### File: `hospital_stay_data.csv`
+### File: `hospital__stay_data.csv`
 
 **Dataset Statistics:**
 - Total Records: 100,000 patient admissions
@@ -497,7 +497,7 @@ Top 5 months with highest patient visits:
 | **Data Processing** | Pandas, NumPy |
 | **Visualization** | Matplotlib, Seaborn |
 | **Environment** | Jupyter Notebook / VS Code |
-| **Dataset Used** | hospital_stay_data.csv |
+| **Dataset Used** | hospital__stay_data.csv |
 
 ---
 
