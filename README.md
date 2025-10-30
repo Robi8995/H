@@ -442,15 +442,6 @@ Top 5 months with highest patient visits:
 
 ---
 
-## 📁 Output Files
-
-### Analysis Outputs
-- **Visualizations:** PNG files for each chart (distribution, correlation heatmap, risk analysis, temporal trends)
-- **Summary Statistics:** Console output with key metrics (averages, distributions, high-risk counts)
-- **DataFrames:** Cleaned and processed data stored in Python for further analysis
-
----
-
 ## 📊 Visualization Guide
 
 | Visualization | Purpose | Key Insight |
